@@ -1,4 +1,4 @@
-# 📊 Multi-View Learning Datasets Repository ✨
+# 📊 Multi-View Learning Datasets ✨
 
 🖖 Welcome to the hub for multi-view learning datasets! 🌟 This repository is stocked with `.mat` files commonly used in multi-view learning research. Feel the power of data at your fingertips! 🚀
 
