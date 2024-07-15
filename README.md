@@ -61,7 +61,11 @@ Here's what we've got cooking in the data kitchen:
 - `YaleB.mat` 
 - `Youtube.mat` 
 - `USPS.mat` 
-- `COIL100.mat` 
+- `COIL100.mat`
+- `NUS-WIDE-OBJECT.mat`
+- `NUS-WIDE-SCENE.mat`
+- `NUS-WIDE-Lite.mat`
+- `NUS-WIDE Directory`
 
 🔥 All files are available, just click [Download](https://drive.google.com/file/d/1LQ0YL-T2NaPj-GiVJw7pkHlUAeNyUh5T/view?usp=sharing).
 
