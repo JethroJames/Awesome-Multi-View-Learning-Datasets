@@ -67,7 +67,7 @@ Here's what we've got cooking in the data kitchen:
 - `NUS-WIDE-Lite.mat`
 - `NUS-WIDE Directory`
 
-🔥 All files are available, just click [Download](https://drive.google.com/file/d/1LQ0YL-T2NaPj-GiVJw7pkHlUAeNyUh5T/view?usp=sharing).
+🔥 All files are available, just click [Download](https://drive.google.com/drive/folders/1f-Cx3-U2RUi5xZRS4pP-4UIBUdB-gtqG?usp=sharing).
 
 🐾 Dive in and explore! 🏊 If you like what you see, don't forget to star us above! ⭐️
 
