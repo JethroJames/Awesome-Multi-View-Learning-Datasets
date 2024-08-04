@@ -14,6 +14,7 @@ Here's what we've got cooking in the data kitchen:
 - `ACM3025.mat`
 - `ALOI_100.mat`
 - `ALOI_1K.mat`
+- `Animal.mat`
 - `AWA.mat` 
 - `BBC.mat` 
 - `bbcsport.mat` 
@@ -25,6 +26,7 @@ Here's what we've got cooking in the data kitchen:
 - `CIFAR10_llc_with_img_fea.mat`
 - `CiteSeer.mat`
 - `COIL20.mat`
+- `CUB.mat`
 - `Digit4k.mat`
 - `flower17.mat`
 - `flower17_numberOf_340.mat`
@@ -46,6 +48,7 @@ Here's what we've got cooking in the data kitchen:
 - `ORL.mat`
 - `ORL_4views.mat`
 - `prokaryotic.mat`
+- `PIE.mat` 
 - `Reuters.mat`
 - `Reuters_21578.mat` 
 - `scene.mat`
