@@ -15,7 +15,8 @@ Here's what we've got cooking in the data kitchen:
 - `ALOI_100.mat`
 - `ALOI_1K.mat`
 - `Animal.mat`
-- `AWA.mat` 
+- `AWA.mat`
+- `AWA2.mat` 
 - `BBC.mat` 
 - `bbcsport.mat` 
 - `bbcsport_2view1.mat` 
@@ -28,6 +29,7 @@ Here's what we've got cooking in the data kitchen:
 - `COIL20.mat`
 - `CUB.mat`
 - `Digit4k.mat`
+- `ESP-Game.mat`
 - `flower17.mat`
 - `flower17_numberOf_340.mat`
 - `Handwritten4.mat`
@@ -57,7 +59,8 @@ Here's what we've got cooking in the data kitchen:
 - `TwoMoon.mat`
 - `UCI.mat`
 - `UCI_Digit6.mat` 
-- `UCI_Digits.mat` 
+- `UCI_Digits.mat`
+- `VGGFace2-50.mat`
 - `WebKB.mat` 
 - `WikipediaArticles.mat` 
 - `yale.mat` 
@@ -69,6 +72,7 @@ Here's what we've got cooking in the data kitchen:
 - `NUS-WIDE-SCENE.mat`
 - `NUS-WIDE-Lite.mat`
 - `NUS-WIDE Directory`
+- `NUW-WIDE 20k.mat`
 
 🔥 All files are available, just click [Download](https://drive.google.com/drive/folders/1f-Cx3-U2RUi5xZRS4pP-4UIBUdB-gtqG?usp=sharing).
 
