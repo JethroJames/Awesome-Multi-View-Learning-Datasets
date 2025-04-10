@@ -30,6 +30,7 @@ Here's what we've got cooking in the data kitchen:
 - `CUB.mat`
 - `Digit4k.mat`
 - `ESP-Game.mat`
+- `Food-101.mat`
 - `flower17.mat`
 - `flower17_numberOf_340.mat`
 - `Handwritten4.mat`
