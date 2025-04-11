@@ -43,7 +43,8 @@ Here's what we've got cooking in the data kitchen:
 - `mnist4.mat`
 - `MSRC-v6.mat` 
 - `MSRC.mat`
-- `MSRC_v1.mat` 
+- `MSRC_v1.mat`
+- `MOSI.pkl`
 - `NGs.mat` 
 - `NTU2012_mvcnn_gvcnn.mat`
 - `NUS.mat`
